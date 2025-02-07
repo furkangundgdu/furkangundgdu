@@ -8,11 +8,9 @@ Merhaba! Ben Furkan Gündoğdu. Yazılım geliştiricisi ve teknoloji meraklıs�
 ## Hakkımda
 
 - 🔭 Şu anda kendi projelerim üzerinde çalışıyorum
-- 🌱 Şu anda **[öğrendiğiniz veya öğrenmekte olduğunuz teknolojiler]** üzerine çalışıyorum
-- 👯 İşbirliği yapmak istediğim projeler: **[ilgili projeler veya konular]**
-- 💬 Bana sorularınızı iletebilirsiniz: **[ilgili konular]**
-- 📫 Bana ulaşın: [furkangundgdu@example.com](mailto:furkangundgdu@example.com)
-- ⚡ Eğlenceli gerçek: **[eğlenceli bir gerçek]**
+- 🌱 Şu anda .Net Core, C# üzerine çalışıyorum
+- 💬 Bana sorularınızı iletebilirsiniz.
+- 📫 Bana ulaşın: [mrfurkangundogdu@gmail.com](mailto:mrfurkangundogdu@gmail.com)
 
 ## Diller ve Araçlar
 
@@ -30,5 +28,5 @@ Merhaba! Ben Furkan Gündoğdu. Yazılım geliştiricisi ve teknoloji meraklıs�
 
 ## İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/furkangundgdu/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:furkangundgdu@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mrfurkangundogdu/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:mrfurkangundogdu@gmail.com)
