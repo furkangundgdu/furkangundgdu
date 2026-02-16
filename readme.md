@@ -21,6 +21,9 @@ Merhaba! Ben Furkan Gündoğdu. Yazılım geliştiricisi ve teknoloji meraklıs�
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=angular,bootstrap,c,cs,css,docker,dotnet,html,js,sqlserver,nodejs,postgres,ts)](https://skillicons.dev)
+
 ## GitHub İstatistiklerim
 
 ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=furkangundgdu&show_icons=true&theme=radical)
